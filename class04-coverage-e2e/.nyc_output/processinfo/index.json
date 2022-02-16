@@ -1,0 +1,1 @@
+{"processes":{"6ab2aa7f-eb49-4f9a-964e-5205d9298e8d":{"parent":"c71ac7ef-1cd8-4372-ab27-ca5f06fbaa54","children":[]},"c71ac7ef-1cd8-4372-ab27-ca5f06fbaa54":{"parent":null,"children":["6ab2aa7f-eb49-4f9a-964e-5205d9298e8d"]}},"files":{"/Users/anaalicefig/Documents/JSExpert/testes/aula04-coverage-e2e/api.js":["6ab2aa7f-eb49-4f9a-964e-5205d9298e8d"]},"externalIds":{}}
